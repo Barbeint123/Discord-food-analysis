@@ -1,0 +1,20 @@
+{
+  "name": "foodbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "discord.js": "^14.25.1",
+    "dotenv": "^17.2.3",
+    "matplotlib": "^1.0.0",
+    "pandas": "^0.0.3",
+    "seaborn": "^0.0.1-security"
+  }
+}

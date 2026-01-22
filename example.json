@@ -1,0 +1,55 @@
+{
+  "channel": "food",
+  "messages": [
+    {
+      "message_id": "123456789",
+      "timestamp": "2021-03-14T18:32:11Z",
+      "author": {
+        "id": "111111",
+        "username_at_time": "jesper7177"
+      },
+      "content": "Laks egg kuskus og bønner",
+      "images": [
+        {
+          "url": "https://cdn.discordapp.com/...",
+          "filename": "IMG_001.jpg",
+          "width": 3024,
+          "height": 4032
+        },
+        {
+          "url": "https://cdn.discordapp.com/...",
+          "width": 3024,
+          "height": 4032,
+          "filename": "IMG_002.jpg"
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "name": "8️⃣",
+            "id": null,
+            "is_custom": false,
+            "raw": "8️⃣"
+          },
+          "score": 8,
+          "users": [
+            { "id": "222222", "username_at_time": "Alex" },
+            { "id": "333333", "username_at_time": "Maria" }
+          ]
+        },
+        {
+          "emoji": {
+            "name": "poggers",
+            "id": "987654321",
+            "is_custom": true,
+            "raw": "<:poggers:987654321>"
+          },
+          "score": null,
+          "users": [
+            { "id": "444444", "username": "Chris" }
+          ]
+        }
+      ]
+    }
+  ]
+}
