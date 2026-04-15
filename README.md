@@ -19,5 +19,5 @@ The repository consists of the following files:
 - **`data_analysis.ipynb`**  
   A Jupyter Notebook performing exploratory data analysis and computing various statistics from the dataset.
 
-  - **`example.json`**  
+- **`example.json`**  
   An example dataset which was created to gain an idea of what kind of data I would need to extract from the discord channel using the discord API
