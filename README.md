@@ -1,5 +1,5 @@
 ### Background
-During Covid, a group of friends and I started a Discord channel where we'd post pictures of our dinners and rate them on a 10-point scale. It was something to do. The tradition stuck around long after Covid ended.
+During Covid, a group of friends and I started a Discord channel where we'd post pictures of our dinners and rate them on a 10-point scale. The tradition stuck around long after Covid ended.
 
 As of 22.01.2026, 319 food posts have been made in the channel. This repository contains: 1) a Discord bot that collects those posts into a .json file, and 2) pandas-based analysis to extract statistics — best rated dish, harshest critic, and so on.
 
